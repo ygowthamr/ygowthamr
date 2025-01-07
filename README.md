@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/ygowthamr/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
   </a>
-  <a href="discordapp.com/users/869075082264317962" target="_blank">
+  <a href="https://discordapp.com/users/869075082264317962" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
   </a>
 </div>
